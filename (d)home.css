@@ -2,7 +2,13 @@ body {
   background-color:#660000;
 }
 
-h2, p { 
+h2, h4 { 
+color: white;
+text-align: left;
+font-family: serif;
+}
+
+p { 
 color: white;
 text-align: left;
 font-family: serif;
