@@ -41,7 +41,7 @@ a:visited {
 ul li a:hover {
   background-color: #660000;
   border-radius: 30px;
-  text-color: white;
+  color: white;
   
 }
 a:active {
